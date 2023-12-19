@@ -1,0 +1,28 @@
+.register{
+    align-items: center;
+    padding: 10px;
+    margin: 30px;
+    border: 1px solid rgb(12, 11, 11);
+    padding: 100px;
+}
+
+.register-element input{
+    width: 50px;
+    height: 25px;
+    padding-left: 20px;
+}
+
+.register-element label{
+    padding-right : 10px;
+}
+
+.register-elementname {
+    padding-left: 20px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

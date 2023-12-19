@@ -38,7 +38,18 @@ body {
 
 .register-element{
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 20px;
     margin: 10px;
     padding-left: 10px;
 }
+
+.register-element input {
+    width: 300px; 
+    font-size: 16px; 
+    height: 25px;
+}
+
+.register-element label {
+    font-size: 20px; 
+}
+
